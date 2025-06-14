@@ -86,9 +86,6 @@ Currently, I’m working on full-stack solutions including HR management platfor
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfathmostofa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfathmostofa&layout=compact&theme=radical)
 <p align="center">
     <table align="center">
         <tr>
