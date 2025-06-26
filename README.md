@@ -89,18 +89,19 @@ Currently, I’m working on full-stack solutions including HR management platfor
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=irfathmostofa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfathmostofa&theme=tokyonight&hide_border=true" alt="irfathmostofa's GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irfathmostofa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Irfath's GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irfathmostofa&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Irfath's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfathmostofa&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfathmostofa&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css,shell" alt="Top Languages" />
   </a>
 </p>
+
 
 ---
 
