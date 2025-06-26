@@ -86,21 +86,32 @@ Currently, I’m working on full-stack solutions including HR management platfor
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=irfathmostofa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
+    <table align="center">
+        <tr>
+            <picture>
+                <source srcset="https://gh-streak-stats.vercel.app?user=irfathmostofa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" media="(prefers-color-scheme: dark)"/>
+            </picture>
+            <td>
+           <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=irfathmostofa&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" /></a>
+            </td>
+        </tr>
+   </table>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irfathmostofa&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Irfath's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfathmostofa&layout=compact&langs_count=20&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</p>
+<br/>
+<br/>
+
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=irfathmostofa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfathmostofa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+    </tr>
+</table>
 
 
 
