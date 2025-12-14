@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="38DLeER"><a href="https://imgur.com/38DLeER">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/38DLeER.jpeg" alt="Irfath Chowdhury Joy">
 Hi, I'm Md. Irfath Chowdhury Joy 👋
 
 I'm a dedicated full-stack developer with a strong focus on building scalable, high-performance web applications and real-time systems. My expertise lies in technologies like **React**, **Node.js**, **GraphQL**, and **Socket.IO**, and I have hands-on experience in developing both robust backend architectures and intuitive user interfaces.
