@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGyHaq4UnF9sg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737645594387?e=1758758400&v=beta&t=44K9R3fu7Z6lgOCRyAj_pqF7MQt_9pYXe5EMyWIjgR4" alt="Banner" width="100%" />
+<img src="https://imgur.com/38DLeER" alt="Banner" width="100%" />
 Hi, I'm Md. Irfath Chowdhury Joy 👋
 
 I'm a dedicated full-stack developer with a strong focus on building scalable, high-performance web applications and real-time systems. My expertise lies in technologies like **React**, **Node.js**, **GraphQL**, and **Socket.IO**, and I have hands-on experience in developing both robust backend architectures and intuitive user interfaces.
